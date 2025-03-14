@@ -11,4 +11,6 @@ h1{
     text-align: right;
     line-height:30px;
     letter-spacing:3px;
+    column-gap: 2;
+    column-gap: 60px;
    }
